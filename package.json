@@ -1,0 +1,25 @@
+{
+  "name": "elgato-key-light",
+  "version": "1.0.0",
+  "description": "Elgato Key Light control module for Companion",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarthDB/companion-module-elgato-key-light.git"
+  },
+  "keywords": [
+    "Elgato",
+    "Key Light",
+    "Companion module",
+    "Companion"
+  ],
+  "author": "Garth Braithwaite <garthdb@gmail.com> (http://garthdb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarthDB/companion-module-elgato-key-light/issues"
+  },
+  "homepage": "https://github.com/GarthDB/companion-module-elgato-key-light#readme"
+}
